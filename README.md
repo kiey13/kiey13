@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiey13
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning at alx
+- 🌱 I’m currently learning at Alx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
